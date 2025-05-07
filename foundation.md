@@ -37,7 +37,7 @@ Esses preceitos refletem a **Manifesto for a Global Economic Ethic**, que propõ
 
 ---
 
-Ao reconhecer as fronteiras entre o papel estatal e o espaço de atuação da iniciativa privada, a Fecomércio demonstra como entidades sem fins lucrativos podem prosperar no comércio globalizado, gerando impacto social positivo e, ao mesmo tempo, fomentando negócios inovadores e escaláveis.
+Reconhecer fronteiras, papéis e o espaços de atuação das entidades, reafirmam o poder responsável e o compromisso de prosperar no comércio globalizado, gerando impacto social positivo e, ao mesmo tempo, fomentando negócios inovadores e escaláveis.
 
 [1]: https://pt.wikipedia.org/wiki/Empresa_estatal?utm_source=chatgpt.com "Empresa estatal"
 [2]: https://www.scielo.br/j/op/a/fbjhrWrdV7bSk8qFR4brQWb/?utm_source=chatgpt.com "Sociedade civil, Estado e autonomia: argumentos, contra ... - SciELO"
