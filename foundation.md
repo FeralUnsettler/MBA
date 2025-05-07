@@ -1,6 +1,7 @@
 # Abstract
 
-A compreensão equivocada de que estruturas historicamente exercidas pelo Estado equivalem a atividades de comércio ou serviços privados leva à confusão entre responsabilidades públicas e oportunidades de mercado. Essa falha conceitual prejudica o desenvolvimento de negócios inovadores, uma vez que iniciativas escaláveis e disruptivas demandam clareza sobre onde o poder estatal deve intervir e onde a iniciativa privada pode atuar livremente, sem comprometer o “estado maior” das instituições públicas. A Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo (FecomercioSP) exemplifica – desde sua fundação em 1938 – como separar essas esferas, entregando soluções de apoio ao empreendedorismo sem usurpar funções estatais, amparada por valores sólidos, missão clara e um rigoroso código de ética.
+A compreensão equivocada de que estruturas historicamente exercidas pelo Estado equivalem a atividades de comércio ou serviços privados podem levar à confusão entre responsabilidades públicas e oportunidades de mercado.
+Essa falha conceitual prejudica o desenvolvimento de negócios inovadores, uma vez que iniciativas escaláveis e disruptivas demandam clareza sobre onde o poder estatal deve intervir e onde a iniciativa privada pode atuar livremente, sem comprometer o “estado maior” das instituições públicas. A Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo (FecomercioSP) exemplifica – desde sua fundação em 1938 – como separar essas esferas, entregando soluções de apoio ao empreendedorismo sem usurpar funções estatais, amparada por valores sólidos, missão clara e um rigoroso código de ética.
 
 
 
