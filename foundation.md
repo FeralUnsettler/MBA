@@ -1,7 +1,7 @@
 # Abstract
 
 A compreensão equivocada de que estruturas historicamente exercidas pelo Estado equivalem a atividades de comércio ou serviços privados podem levar à confusão entre responsabilidades públicas e oportunidades de mercado.
-Essa falha conceitual prejudica o desenvolvimento de negócios inovadores, uma vez que iniciativas escaláveis e disruptivas demandam clareza sobre onde o poder estatal deve intervir e onde a iniciativa privada pode atuar livremente, sem comprometer o “estado maior” das instituições públicas. A Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo (FecomercioSP) exemplifica – desde sua fundação em 1938 – como separar essas esferas, entregando soluções de apoio ao empreendedorismo sem usurpar funções estatais, amparada por valores sólidos, missão clara e um rigoroso código de ética.
+Essa falha conceitual prejudica o desenvolvimento de negócios inovadores, uma vez que iniciativas escaláveis e disruptivas demandam clareza sobre onde o poder estatal deve intervir e onde a iniciativa privada pode atuar livremente, sem comprometer o “estado maior” das instituições públicas. A Federação do Comércio de Bens, Serviços e Turismo (Fecomercio) pode ser o maior exemplo – desde sua fundação em 1938 – de como separar essas esferas, entregando soluções de apoio ao empreendedorismo sem usurpar funções estatais, amparada por valores sólidos, missão clara e um rigoroso código de ética.
 
 
 
@@ -34,11 +34,35 @@ A governança da Fecomércio baseia‑se em princípios que estão alinhados à 
 * **Visão e Valores:** Ser reconhecida como entidade moderna, criativa e guia, defendendo o livre mercado, a diversidade, a transparência, a sustentabilidade e a inovação ([FecomercioSP][6]).
 * **Código de Ética e Conduta:** No âmbito do Sistema Fecomércio‑RS, o código apresenta princípios de integridade, respeito, profissionalismo e responsabilidade social, reforçando a conduta esperada de todos os colaboradores e parceiros ([Transparência SESC][7]).
 
-Esses preceitos refletem a **Manifesto for a Global Economic Ethic**, que propõe valores como humanidade, justiça, honestidade e parceria para a atuação econômica responsável e sustentável ([Wikipedia][8]).
+
+## Composição do Sistema no RS
+
+Hoje, o Sistema Fecomércio-RS integra:
+
+* **Centro do Comércio de Bens, Serviços e Turismo do Estado do RS (Ccergs)**;
+* **Sesc-RS** e **Senac-RS**, responsáveis por programas sociais e de educação profissional;
+* **Instituto Fecomércio-RS de Pesquisa (IFEP-RS)**, fonte de estudos e indicadores econômicos. ([LinkedIn][7])
+
+## Representatividade e Relevância Econômica
+
+A Fecomércio-RS representa cerca de 74,8% dos estabelecimentos gaúchos do setor terciário, responsáveis por 50,6% do PIB estadual e por 1,7 milhão de empregos formais ([Hot Sites][8]).
+
+Ao longo de sua história, a Fecomércio-RS evoluiu de uma federação sindical para um sistema integrado de instituições voltadas à promoção do bem-estar social, à qualificação profissional e à pesquisa econômica. Sua capacidade de adaptação – manifestada na criação e modernização de Sesc-RS, Senac-RS e IFEP-RS – comprova a importância de alinhar ações estratégicas de apoio ao comércio e serviços com as necessidades regionais, sem invadir competências estatais, mas fortalecendo a iniciativa privada e fortalecendo o ambiente de negócios no Rio Grande do Sul.
 
 ---
 
-Reconhecer fronteiras, papéis e o espaços de atuação das entidades, reafirmam o poder responsável e o compromisso de prosperar no comércio globalizado, gerando impacto social positivo e, ao mesmo tempo, fomentando negócios inovadores e escaláveis.
+
+[1]: https://hotsites.fecomercio-rs.org.br/2017/08/03/fecomercio-rs-completa-72-anos-de-fundacao-nesta-quinta-feira-dia-03/ "Fecomércio-RS completa 72 anos de fundação nesta quinta-feira, dia 03 - Fecomércio RS"
+[2]: https://www.sesc-rs.com.br/noticias/fecomecio-rs-celebra-77-anos-de-sesc-e-senac/ "Fecomécio-RS celebra 77 anos de Sesc e Senac - SESC-RS"
+[3]: https://www.sesc-rs.com.br/noticias/sesc-e-senac-comemoram-75-anos-no-rio-grande-do-sul/?utm_source=chatgpt.com "Sesc e Senac comemoram 75 anos no Rio Grande do Sul"
+[4]: https://mapaosc.ipea.gov.br/detalhar/755008?utm_source=chatgpt.com "INSTITUTO FECOMERCIO DE PESQUISA - IFEP - Mapa das OSC"
+[5]: https://mundial.fm.br/instituto-fecomercio-rs-de-pesquisa-ifep-rs-e-implantado-para-apoio-tecnico-do-comercio/?utm_source=chatgpt.com "Instituto Fecomércio-RS de Pesquisa (IFEP-RS) é implantado para ..."
+[6]: https://www.sesc-rs.com.br/noticias/sede-do-sistema-fecomercio-rssescsenac-recebe-reconhecimento-por-praticas-de-sustentabilidade/?utm_source=chatgpt.com "Sede do Sistema Fecomércio-RS/Sesc/Senac recebe ..."
+[7]: https://www.linkedin.com/company/fecom-rcio-rs?utm_source=chatgpt.com "Fecomércio RS | LinkedIn"
+[8]: https://hotsites.fecomercio-rs.org.br/giropeloriogrande/?utm_source=chatgpt.com "Giro pelo Rio Grande - Fecomércio-RS"
+
+
+📌 Reconhecer fronteiras, papéis e o espaços de atuação das entidades, reafirmam o poder responsável e o compromisso de prosperar no comércio globalizado, gerando impacto social positivo e, ao mesmo tempo, fomentando negócios inovadores e escaláveis.
 
 [1]: https://pt.wikipedia.org/wiki/Empresa_estatal?utm_source=chatgpt.com "Empresa estatal"
 [2]: https://www.scielo.br/j/op/a/fbjhrWrdV7bSk8qFR4brQWb/?utm_source=chatgpt.com "Sociedade civil, Estado e autonomia: argumentos, contra ... - SciELO"
