@@ -67,28 +67,28 @@ Objetivo: Detalhar as fontes de dados e a arquitetura de dados proposta.
 ## Camada de Ingestão de Dados:
 Objetivo: Coletar dados em tempo real das fontes mencionadas.
 
-## Ferramentas Sugeridas: 
+### Ferramentas Sugeridas: 
 * APIs RESTful fornecidas pelas entidades
 * webhooks para eventos em tempo real
 * ETL (Extract, Transform, Load) para dados históricos.
 
 ## Data Lake:
 Objetivo: Armazenar grandes volumes de dados brutos, estruturados e não estruturados.
-## Tecnologias Sugeridas: 
+### Tecnologias Sugeridas: 
 * Amazon S3
 * Google Cloud Storage
 * Azure Data Lake.
 
 ## Data Warehouse (DW):
 Objetivo: Organizar e estruturar os dados para análises e geração de insights.
-## Tecnologias Sugeridas:
+### Tecnologias Sugeridas:
 * Amazon Redshift
 * Google BigQuery
 * Snowflake.
 
 ### Business Intelligence (BI):
 Objetivo: Visualizar dados e métricas para tomada de decisões.
-## Ferramentas Sugeridas: 
+### Ferramentas Sugeridas: 
 * Tableau
 * Power BI
 * Looker
