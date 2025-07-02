@@ -8,9 +8,10 @@ Este projeto foi desenvolvido em Streamlit com foco em análise de saúde mental
 - Pandas
 - Plotly
 - Numpy
+- Matplotlib
 
 ## 🚀 Como rodar localmente
 
 ```bash
 pip install -r requirements.txt
-streamlit run dashboard_saude_mental.py
+streamlit run dashboard.py

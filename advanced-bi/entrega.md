@@ -2,11 +2,15 @@
 
 ## Aplicação de Business Intelligence (BI) em um Cenário Real
 
-**Disciplina:** Análise Avançada para BI
-**Aluno:** Luciano Martins Fagundes
-**Curso:** MBA em Ciência de Dados, BI e Inteligência Artificial
-**Professor:** Rodrigo de Abreu Batista
-**Campus:** UniSenac – Porto Alegre
+### **Disciplina:** Análise Avançada para BI
+
+### **Aluno:** Luciano Martins Fagundes
+
+### **Curso:** MBA em Ciência de Dados, BI e Inteligência Artificial
+
+### **Professor:** Rodrigo de Abreu Batista
+
+### **Campus:** UniSenac – Porto Alegre
 
 ---
 
